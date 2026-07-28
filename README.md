@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marlo!</h1>
-<h3 align="center">I'm a passionate entrepreneur and software engineer from Germany.</h3>
+<h3 align="center">I'm a UI lover and passionate software engineer from Germany.</h3>
 
 ## Platforms, Frameworks & Technologies I work with:
 
@@ -14,7 +14,7 @@
 
 ### Server
 
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <!-- Phython --><img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=ffffff"/> <!-- Java --><img alt="Java" src="https://img.shields.io/badge/Java-%235d819e.svg?style=for-the-badge&logo=openjdk&logoColor=ffffff"/> <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=ffffff"/> <img alt="Vercel" src="https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/> <img alt="Firebase" src="https://img.shields.io/badge/firebase-fdfdfd.svg?style=for-the-badge&logo=firebase&logoColor=yellow"/> 
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/> <!-- Phython --><img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=ffffff"/> <!-- Java --><img alt="Java" src="https://img.shields.io/badge/Java-%235d819e.svg?style=for-the-badge&logo=openjdk&logoColor=ffffff"/> <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=ffffff"/> <img alt="Vercel" src="https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 
 ### Database
 
@@ -28,16 +28,6 @@
 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/> <!-- Code Generation --><img alt="Code Generation" src="https://img.shields.io/badge/Code%20Generation-%237A67D3.svg?style=for-the-badge"/> 
 
-## My GitHub Stats
-<a href="https://github.com/marlokessler">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=marlokessler&custom_title=My%20GitHub%20Stats&show_icons=true&line_height=32&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=9efba0&bg_color=00000000&border_radius=30&hide_border=true&hide_title=true" alt="Marlo Kessler's GitHub Stats" />
-</a>
-  
-## My most used Languages
-<a href="https://github.com/marlokessler">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlokessler&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=00000000&layout=compact&border_radius=30&hide_border=true&custom_title=My%20most%20used%20Languages&hide_title=true" />
-</a>
-
 ## 🎉 Here is one Joke for you, because I think jokes are funny
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=react&borderColor=none)
@@ -45,5 +35,3 @@
 ## More from me:
 <a href="https://linkedin.com/in/marlokessler" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marlokessler" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14191801" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14191801" height="30" width="40" /></a>
-<a href="https://instagram.com/marlokessler" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marlokessler" height="30" width="40" /></a>
-
